@@ -19,7 +19,10 @@ public class FlashlightOn : MonoBehaviour, IHandGrabUseDelegate
     // Update is called once per frame
     void Update()
     {
-
+        if (Input.GetKeyDown(KeyCode.L))
+        {
+            ToggleLight();
+        }
     }
 
     private void ToggleLight()
@@ -31,11 +34,11 @@ public class FlashlightOn : MonoBehaviour, IHandGrabUseDelegate
         }
         if (_lights[0].enabled)
         {
-            _lightEmmissive.EnableKeyword("_EMMISSION");
+            _lightEmmissive.EnableKeyword("_EMISSION");
         }
         else
         {
-            _lightEmmissive.DisableKeyword("_EMMISSION");
+            _lightEmmissive.DisableKeyword("_EMISSION");
         }
     }
 
