@@ -854,6 +854,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Flashlight_GameObject
       objectReference: {fileID: 0}
+    - target: {fileID: 132238, guid: 6241ef40758dd404b91e848e07dda193, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 187386, guid: 6241ef40758dd404b91e848e07dda193, type: 3}
       propertyPath: m_IsActive
       value: 1
