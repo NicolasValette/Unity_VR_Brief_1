@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bb8495d99da0e184592e78e3f289a9a2
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: ff2cf0ec55ee19143a3f89bb53ebc3e4, type: 2}
+  _fileAsset: {instanceID: 0}
+  _assetPath: Assets/Materials/Substances/natural_cross_laminated_wood_timber.sbsar
