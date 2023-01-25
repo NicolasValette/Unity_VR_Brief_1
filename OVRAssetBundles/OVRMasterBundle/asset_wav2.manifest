@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 4226963386
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b9e564ee3dedd61abafaf1e651ba02f7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_Object_Impact_08.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_Object_Resize_01.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_Object_Impact_03.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_ComplexGrab_BoxClose_01.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_Object_Impact_06.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_Object_Reappear_01.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_Object_Impact_09.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_Object_Impact_07.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_ComplexGrab_BoxOpen_02.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_Object_Impact_05.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_Object_Impact_01.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_Object_Impact_02.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_ComplexGrab_BoxOpen_03.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_Object_Impact_11.wav
+Dependencies: []

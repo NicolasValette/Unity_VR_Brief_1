@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 3126799427
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1ee645d61573a306faa6655d98fa398d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f9f3d136959ac0e7043e721e899342fb
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Lamp Assets/Objects/Materials/Rope.mat
+- Assets/Materials/m_Mirror.mat
+- Assets/Oculus/Interaction/Samples/Objects/Props/MapWithPins/Materials/MapMat.mat
+- Assets/Materials/m_AppleRed.mat
+- Assets/Oculus/Interaction/Samples/Objects/Props/MapWithPins/Materials/MapPointerMat.mat
+- Assets/Materials/m_Ceiling1.mat
+- Assets/Materials/m_Bulb.mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Screen/Materials/ScreenMaterial.mat
+- Assets/Lamp Assets/Objects/Materials/DomeOn 1.mat
+- Assets/CreativeCore_Lighting/Materials/GrayShade2.mat
+- Assets/CreativeCore_Shaders/Materials/Completed Materials/Material 1.mat
+- Assets/Free Furniture Set/Source/Mesh/Materials/MI_StandingLamp.mat
+- Assets/Free Furniture Set/Source/Mesh/Materials/MI_AngledSofaLeatherBrown.mat
+- Assets/Oculus/Interaction/Runtime/Materials/OculusHandPinchMaterial.mat
+- Assets/Lamp Assets/Objects/Materials/LightSource.mat
+- Assets/Materials/m_Door.mat
+- Assets/Materials/YellowBanana.mat
+- Assets/Oculus/Interaction/Runtime/Materials/OculusHandCursor.mat
+- Assets/Materials/m_DoorBack.mat
+- Assets/Lamp Assets/Objects/Materials/Switcher Button RedSide.mat
+- Assets/Lamp Assets/Objects/Materials/Wood.mat
+- Assets/Oculus/Interaction/Runtime/Materials/TransparentStandard.mat
+- Assets/Oculus/Interaction/Runtime/Materials/GrabDebugSphere.mat
+- Assets/Oculus/Interaction/Runtime/Materials/OculusControllerRayMaterial.mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Screen/Materials/FrameMaterial.mat
+- Assets/Oculus/Interaction/Samples/Objects/Props/Box/Materials/BoxMat.mat
+- Assets/CreativeCore_Lighting/Materials/Red.mat
+- Assets/Oculus/Interaction/Samples/Objects/Props/Doll/Materials/DollMat.mat
+- Assets/Oculus/Interaction/Samples/Objects/Props/ChessPiece/Materials/ChessPieceMaterial.mat
+- Assets/CreativeCore_Shaders/Materials/WhiteEmission.mat
+Dependencies:
+- C:/Users/Simplon/Documents/GitHub/Unity_VR_Brief_1/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/Users/Simplon/Documents/GitHub/Unity_VR_Brief_1/OVRAssetBundles/OVRMasterBundle/asset_png2
+- C:/Users/Simplon/Documents/GitHub/Unity_VR_Brief_1/OVRAssetBundles/OVRMasterBundle/asset_resources
+- C:/Users/Simplon/Documents/GitHub/Unity_VR_Brief_1/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/Users/Simplon/Documents/GitHub/Unity_VR_Brief_1/OVRAssetBundles/OVRMasterBundle/asset_tif0

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2969049373
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5a0147b88540533786441f7682b7ac9b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/Interaction/Samples/Objects/Props/PictureFrame/Textures/LivingRoom.jpg
+- Assets/Oculus/Interaction/Samples/Objects/Props/PictureFrame/Textures/Shelf.jpg
+- Assets/Oculus/Interaction/Samples/Objects/Props/PictureFrame/Textures/Map.jpg
+- Assets/Oculus/Interaction/Samples/Objects/Props/PictureFrame/Textures/Love.jpg
+Dependencies: []

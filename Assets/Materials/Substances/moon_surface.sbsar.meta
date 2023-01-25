@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6c6762ba3c38bb24a8a4a1d51e63a274
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: 41c6b1066540986409479795d6b15336, type: 2}
+  _fileAsset: {instanceID: 0}
+  _assetPath: Assets/Materials/Substances/moon_surface.sbsar

@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 733356017
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8f7b8105b47c1bbf14f4e82e3a7dd11b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f9f3d136959ac0e7043e721e899342fb
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/Interaction/Runtime/Materials/OculusHandWire.mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Materials/SmallRoomRugMat.mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Materials/StencilSkydome.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/Materials/OculusTouchForQuestAndRiftS_Material.mat
+- Assets/Materials/Plant.mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/MRDesk/Materials/MRDeskMat.mat
+- Assets/Oculus/VR/Materials/BasicHandMaterial.mat
+- Assets/Materials/m_Water.mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Materials/SmallRoomFurnitureMat.mat
+- Assets/Oculus/VR/Meshes/MetaQuestTouchPro/Materials/MetaQuestProLeft_Material.mat
+- Assets/Oculus/Interaction/Samples/Materials/SkyboxGradient.mat
+- Assets/Oculus/Interaction/Runtime/Materials/DistanceReticle.mat
+- Assets/Materials/Jar.mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Materials/WindowStencilWriter.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/Materials/OculusTouchForRift_Material.mat
+- Assets/Oculus/Interaction/Samples/Objects/Props/StonePolyhedra/Materials/StonePolyhedraMat.mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/MRDesk/Materials/MRDeskShadow.mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Materials/SmallRoomWoodMat.mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Materials/SmallRoomFloorMat.mat
+- Assets/Free Furniture Set/Source/Materials/T_CoffeeTableWoodBrown.mat
+- Assets/Oculus/VR/Meshes/MetaQuestTouchPro/Materials/batteryIndicator_mat.mat
+- Assets/Oculus/Interaction/Runtime/Materials/OculusHand.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForQuest2/Materials/OculusTouchForQuest2_MAT.mat
+- Assets/Oculus/Interaction/Runtime/Materials/RoundedBoxUnlit.mat
+- Assets/Flashlight/Materials/Flashlight_mat.mat
+- Assets/Oculus/VR/Meshes/MetaQuestTouchPro/Materials/MetaQuestProRight_Material.mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Materials/SmallRoomFabricMat.mat
+- Assets/Oculus/Interaction/Runtime/Materials/PolylineUnlit.mat
+- Assets/Flashlight/Materials/Flashlight_LightOn_mat.mat
+- Assets/Oculus/Interaction/Runtime/Materials/Unlit Material.mat
+Dependencies:
+- C:/Users/Simplon/Documents/GitHub/Unity_VR_Brief_1/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/Simplon/Documents/GitHub/Unity_VR_Brief_1/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/Users/Simplon/Documents/GitHub/Unity_VR_Brief_1/OVRAssetBundles/OVRMasterBundle/asset_tga0
