@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ebd9ca6a420777543a6d1af056ae71c2
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: ae540a9ca9af42d4882b47150871e076, type: 2}
+  _fileAsset: {instanceID: 0}
+  _assetPath: Assets/Materials/Substances/leather_bull.sbsar

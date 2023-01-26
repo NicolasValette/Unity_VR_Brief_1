@@ -10,5 +10,7 @@ ScriptedImporter:
   script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
   _instancesCopy:
   - {fileID: 11400000, guid: 41c6b1066540986409479795d6b15336, type: 2}
-  _fileAsset: {instanceID: 0}
+  - {fileID: 11400000, guid: b03058144a9b03448ac4c939fa6dd63f, type: 2}
+  _fileAsset: {fileID: 6013892654665635331, guid: 6c6762ba3c38bb24a8a4a1d51e63a274,
+    type: 3}
   _assetPath: Assets/Materials/Substances/moon_surface.sbsar
