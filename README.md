@@ -25,4 +25,8 @@ https://ibb.co/RcPvLQk
 Download the latest Apk, and put them on your Meta Quest 2.
 
 ## Link
-Itch.io page : https://myoji.itch.io/vr-room
+
+### Itch.io
+Claim page : https://myoji.itch.io/vr-room/download/sZ3BUDSaukRLz4ZRMcI4JMDEm0WWnM8aipfEYi_N
+Project page : https://myoji.itch.io/vr-room
+
