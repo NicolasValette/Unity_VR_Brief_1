@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1607618037
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5d35f9177527d12b282509b6889251ad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c12678a98877549a3fe7bb52917258ad
+HashAppended: 0
+ClassTypes:
+- Class: 329
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Tooltips/NearSwipe/SwipeInstructions.mp4
+Dependencies: []

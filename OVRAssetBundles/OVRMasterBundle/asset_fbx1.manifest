@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 1338999700
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7d6d0b2d6a34ff492da82aa94fc58dd6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3869b9ecb07ce0c6e5f72b677fc80f2b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Lamp Assets/Objects/Lamp.fbx
+- Assets/CreativeCore_Shaders/Models/Kettle.fbx
+- Assets/Oculus/Interaction/Samples/Objects/Props/Doll/Models/Doll.fbx
+- Assets/Oculus/Interaction/Samples/Objects/Props/Box/Models/Box.fbx
+- Assets/Models/Table.fbx
+- Assets/Simple Garage/Models/Small stool.fbx
+- Assets/Models/discoball.fbx
+- Assets/Models/table 1.fbx
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Screen/Models/ScreenMesh.fbx
+- Assets/Lamp Assets/Objects/Cabinet.fbx
+- Assets/Oculus/Interaction/Samples/Objects/Props/MapWithPins/Models/Map.fbx
+- Assets/Free Furniture Set/Source/Mesh/StandingLampS.fbx
+Dependencies:
+- C:/Users/Simplon/Documents/GitHub/Unity_VR_Brief_1/OVRAssetBundles/OVRMasterBundle/asset_mat2
+- C:/Users/Simplon/Documents/GitHub/Unity_VR_Brief_1/OVRAssetBundles/OVRMasterBundle/asset_mat3
+- C:/Users/Simplon/Documents/GitHub/Unity_VR_Brief_1/OVRAssetBundles/OVRMasterBundle/asset_png2

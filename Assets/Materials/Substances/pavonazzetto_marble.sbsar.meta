@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 10e3a6e92aee2724aa3de50d6df999ae
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: a75a8a98e3761cb4a8bc06eac95d2def, type: 2}
+  _fileAsset: {instanceID: 0}
+  _assetPath: Assets/Materials/Substances/pavonazzetto_marble.sbsar

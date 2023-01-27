@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 147578605
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e31118d478a36725fba9380da487c3ab
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/CreativeCore_Shaders/Textures/Plant/Plant_Albedo.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/MRDesk/Textures/MRDesk.png
+- Assets/Oculus/VR/Textures/HandTracking/HandTracking_uvmap_2048.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/skydomeBaked.png
+- Assets/Flashlight/Textures/cookie1.png
+- Assets/Flashlight/Textures/cookie3.png
+- Assets/Free Furniture Set/Source/Textures/CoffeeTableWoodBrown_T_CoffeeTableWoodBrown_AlbedoTransparency.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/ConcreteTiling.png
+- Assets/Flashlight/Textures/Flashlight_albedo.png
+- Assets/Oculus/VR/Textures/MetaQuestTouchPro/controller_l_lo_Normal.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/WoodTiling.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/furnitureDiffuse.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/floorDiffuse.png
+- Assets/Oculus/Interaction/Runtime/Textures/Reticle-Circle.png
+- Assets/Oculus/Interaction/Samples/Objects/Props/StonePolyhedra/Textures/StonePolyhedra_AlbedoRoughness.png
+- Assets/Oculus/VR/Textures/OculusTouchForRift/touchController_albedo.png
+- Assets/Oculus/Interaction/Runtime/Textures/fingers_glow_mask.png
+- Assets/Oculus/VR/Textures/MetaQuestTouchPro/controller_r_lo_Normal.png
+- Assets/Flashlight/Textures/Flashlight_normal.png
+- Assets/Flashlight/Textures/cookie2.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/CarpetTiling.png
+- Assets/Oculus/VR/Textures/MetaQuestTouchPro/controller_r_lo_BaseColor.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/FabricTiling.png
+- Assets/Oculus/VR/Textures/MetaQuestTouchPro/batteryIndicatorTexture32.png
+- Assets/Free Furniture Set/Source/Textures/CoffeeTableWoodBrown_T_CoffeeTableWoodBrown_Normal.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/MRDesk/Textures/MRDeskShadow.png
+- Assets/CreativeCore_Shaders/Textures/Plant/Plant_Normal.png
+- Assets/Oculus/Interaction/Runtime/Textures/Reticle-Dot.png
+- Assets/Free Furniture Set/Source/Textures/CoffeeTableWoodBrown_T_CoffeeTableWoodBrown_MetallicSmoothness.png
+- Assets/Oculus/VR/Textures/MetaQuestTouchPro/controller_l_lo_BaseColor.png
+Dependencies: []

@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 816568434
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 45a78d17bcede5e1f6dd8fe191e7fea5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f9f3d136959ac0e7043e721e899342fb
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Free Furniture Set/Source/Materials/StandingLamp.mat
+- Assets/Free Furniture Set/Source/Materials/AngledSofaLeatherBrown.mat
+- Assets/Materials/m_SphereMaterial.mat
+- Assets/Materials/GlassWall.mat
+- Assets/Lamp Assets/Objects/Materials/Switcher White Plastic.mat
+- Assets/Lamp Assets/Objects/Materials/Switcher Button WhiteSide.mat
+- Assets/CreativeCore_Shaders/Materials/LemonYellow.mat
+- Assets/Materials/m_FloorPavement1.mat
+- Assets/Lamp Assets/Objects/Materials/Metal.mat
+- Assets/Materials/m_Ceiling2.mat
+- Assets/Lamp Assets/Objects/Materials/UpPart.mat
+- Assets/Materials/m_Wall1.mat
+- Assets/Lamp Assets/Objects/Materials/DomeOff.mat
+Dependencies:
+- C:/Users/Simplon/Documents/GitHub/Unity_VR_Brief_1/OVRAssetBundles/OVRMasterBundle/asset_png2
+- C:/Users/Simplon/Documents/GitHub/Unity_VR_Brief_1/OVRAssetBundles/OVRMasterBundle/asset_tga0
+- C:/Users/Simplon/Documents/GitHub/Unity_VR_Brief_1/OVRAssetBundles/OVRMasterBundle/asset_tif0

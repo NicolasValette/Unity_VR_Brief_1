@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 4008529492
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2bc91d7221c8eb1e86003d15cf65963d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/Interaction/Samples/Objects/Props/BigRedButton/Textures/Podium/Podium_AO.png
+- Assets/Oculus/Interaction/Samples/Objects/Props/SprayBottle/Textures/SprayBottleAlbedo.png
+- Assets/Oculus/Interaction/Samples/Objects/Props/BigRedButton/Textures/Podium/Podium_Normal.png
+- Assets/Oculus/Interaction/Samples/Objects/Props/BigRedButton/Textures/ShadowGradient.png
+- Assets/Oculus/Interaction/Samples/Textures/SCrim.png
+- Assets/Oculus/Interaction/Samples/Textures/Rock.png
+- Assets/Oculus/Interaction/Samples/Objects/Props/Plants/Textures/PlantSetMat_Normal.png
+- Assets/Oculus/Interaction/Samples/Objects/Props/BigRedButton/Textures/Podium/Podium_SpecularSmoothness.png
+- Assets/Oculus/Interaction/Samples/Textures/Paper.png
+- Assets/Oculus/Interaction/Samples/Objects/Props/Key/Textures/keyTexture.png
+- Assets/Oculus/Interaction/Samples/Textures/Scissors.png
+- Assets/Oculus/Interaction/Samples/Objects/Props/WaterParticles/Textures/SprayAlpha.png
+- Assets/Oculus/Interaction/Samples/Textures/ThumbsUp.png
+- Assets/Oculus/Interaction/Samples/Objects/Props/BigRedButton/Textures/Podium/Podium_AlbedoTransparency.png
+- Assets/Oculus/Interaction/Samples/Objects/Props/MapWithPins/Textures/MapFrame_AlbedoRoughness.png
+- Assets/Oculus/Interaction/Samples/Textures/ThumbsDown.png
+- Assets/Oculus/Interaction/Samples/Objects/Props/Torch/Textures/torchTexture_Metal.png
+- Assets/Oculus/Interaction/Samples/Scripts/HandGrabUse/Effects/WaterSpray/Drops_Tiled_Normal-Map.png
+- Assets/Oculus/Interaction/Samples/Objects/Props/WaterParticles/Textures/StreamAlpha.png
+- Assets/Oculus/Interaction/Samples/Objects/Props/SprayBottle/Textures/SprayBottleNormal.png
+- Assets/Oculus/Interaction/Samples/Objects/Props/Plants/Textures/PlantSetMat_Albedo.png
+- Assets/Oculus/Interaction/Samples/Textures/HandStop.png
+- Assets/Oculus/Interaction/Samples/Textures/OCUIIconSet/OCUI_24_Filled_2x.png
+- Assets/Oculus/Interaction/Samples/Objects/Props/Mug/Textures/mugTexture.png
+- Assets/Oculus/Interaction/Samples/Objects/Props/Torch/Textures/torchTexture_Albedo.png
+- Assets/Oculus/Interaction/Samples/Textures/RoundCorners.png
+- Assets/Oculus/Interaction/Samples/Scenes/Examples/DistanceGrabExamples/Lightmap-0_comp_dir.png
+- Assets/Oculus/Interaction/Samples/ThirdParty/Textures/ComprehensiveGrabMapTexture.png
+- Assets/Oculus/Interaction/Samples/Objects/Props/ChessPiece/Textures/simpleGrabKnight_AlbedoRoughness.png
+- Assets/Oculus/Interaction/Samples/Objects/Props/BigRedButton/Textures/PodiumEmissive.png
+Dependencies: []

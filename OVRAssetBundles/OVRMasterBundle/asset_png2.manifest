@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 4124481778
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 40c820f79f83e3cd11e0252847369093
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/Interaction/Samples/Objects/Props/Box/Textures/Box_Metal.png
+- Assets/Lamp Assets/Objects/Textures/FineWood_AO.png
+- Assets/Simple Garage/Textures/Small stool albedo.png
+- Assets/Oculus/Interaction/Samples/Objects/Props/MapWithPins/Textures/MapPointer_AlbedoRoughness.png
+- Assets/Oculus/Interaction/Samples/Objects/Props/Box/Textures/Box_AlbedoRoughness.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Screen/Textures/FrameTexture.png
+- Assets/Oculus/Interaction/Samples/Objects/Props/Doll/Textures/DollDiffuse.png
+- Assets/Simple Garage/Textures/Small stool normal.png
+- Assets/CreativeCore_Shaders/Textures/Kettle/Kettle_E.png
+- Assets/Free Furniture Set/Source/Textures/StandingLamp_1_Normal.png
+- Assets/CreativeCore_Shaders/Textures/Kettle/Kettle_B.png
+- Assets/Lamp Assets/Objects/Textures/FineWood.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Screen/Textures/ScreenTexture.png
+- Assets/CreativeCore_Shaders/Textures/Tiled Textures/Pavement_SmallMoss_height.png
+- Assets/Oculus/Interaction/Samples/Scenes/Examples/ImportSceneExamples/Lightmap-0_comp_dir.png
+- Assets/Oculus/Interaction/Samples/Scenes/Examples/ImportSceneExamples/Lightmap-1_comp_dir.png
+- Assets/CreativeCore_Shaders/Textures/Tiled Textures/Pavement_SmallMoss_AO.png
+- Assets/Free Furniture Set/Source/Textures/StandingLamp_1_BaseColor.png
+- Assets/CreativeCore_Shaders/Textures/Tiled Textures/Pavement_SmallMoss_Albedo.png
+- Assets/CreativeCore_Shaders/Textures/Tiled Textures/Pavement_SmallMoss_normal.png
+- Assets/CreativeCore_Shaders/Textures/Kettle/Kettle_A.png
+- Assets/Oculus/Interaction/Samples/Scenes/Examples/ImportSceneExamples/Lightmap-2_comp_dir.png
+- Assets/CreativeCore_Shaders/Textures/Kettle/Kettle_Normal.png
+- Assets/Lamp Assets/Objects/Textures/FineWood_NORM.png
+- Assets/Free Furniture Set/Source/Textures/StandingLamp_1_Emissive.png
+- Assets/Lamp Assets/Objects/Textures/Metal.png
+Dependencies: []

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a18dc393c1ad3104e937b507c72a109b
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: fe5515c59643635449905b51c2eff03c, type: 2}
+  _fileAsset: {instanceID: 0}
+  _assetPath: Assets/Materials/Substances/lehenga_fabric.sbsar
