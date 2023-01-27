@@ -15,5 +15,5 @@ My first VR Project. Starting from demo scene in the oculus SDK, i create a bran
 ![Unity Import 1](https://ibb.co/HpfwNJR)
 ![Unity Import 2](https://ibb.co/wygNX08)
 * I set up lights to have a good atmosphere.
-![Light Settings](https://ibb.co/RcPvLQk)
+![Light Settings](https://i.ibb.co/jDG673P/ligthning.png)
 https://ibb.co/RcPvLQk
